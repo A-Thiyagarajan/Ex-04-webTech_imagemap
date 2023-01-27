@@ -218,6 +218,7 @@ Run the Django server and execute the HTML files.
 
 
 # Result:
+The program for implementing image map is executed successfully.
 
 
 
