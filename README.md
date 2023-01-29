@@ -187,32 +187,20 @@ Run the Django server and execute the HTML files.
 
 # Output:
 #### SEC map
-
 ![secmap](https://user-images.githubusercontent.com/118707693/215091708-f96f810f-fa52-461c-b715-620b282e77e3.png)
-
 #### Admin 
 ![admin](https://user-images.githubusercontent.com/118707693/215090941-c40cff62-b137-4f77-811c-b6cf5000e135.png)
-
 #### CSE
 ![cse](https://user-images.githubusercontent.com/118707693/215091065-2665421c-6a91-4e3d-b627-1dfb525047e0.png)
-
 #### ECE 
-
 ![ece](https://user-images.githubusercontent.com/118707693/215091148-75e36bb1-2528-4e35-a309-bf9e8565018a.png)
 #### EEE
-
 ![eee](https://user-images.githubusercontent.com/118707693/215091204-2b07682e-a59c-4463-9ca0-9cc4ae776c42.png)
-
 #### RB
 ![rb](https://user-images.githubusercontent.com/118707693/215091331-9d9a4f9d-6480-479d-a8c4-4cc576418403.png)
-
 #### SEC BOYS HOSTEL
-
-
 ![secboyshostel](https://user-images.githubusercontent.com/118707693/215091426-b4897d10-dc23-43fa-bb38-6b71f6002c76.png)
-
 #### SEC GIRLS HOSTEL
-
 ![secgirlshostel](https://user-images.githubusercontent.com/118707693/215091504-6e9b773b-6c10-4764-be0d-49f3aacca8a7.png)
 
 
